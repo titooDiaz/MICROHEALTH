@@ -1,4 +1,6 @@
 # MICROHEALTH
+
+En este README podrás encontrar información y los datos necesarios para correr este proyecto. Suerte!
 Un proyecto increible! Salud y tecnologia es algo genial!
 
 <hr/>
